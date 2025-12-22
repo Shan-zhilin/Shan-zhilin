@@ -8,8 +8,8 @@
 
 <p align="center">
   <!-- 关键徽章：技术栈、访问量、联系方式 -->
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=Shan-zhilin&style=flat-square&color=00F5FF" alt="profile views"/>
@@ -29,9 +29,10 @@
 | 分类 | 技术 |
 |---|---|
 | 语言 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| 前端 | ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| 前端 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?logo=vue.js&logoColor=white)  ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| 工程化 | ![Webpack](https://img.shields.io/badge/-webpack-9ed4f7?logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/-vite-ae5fe4?logo=vite&logoColor=white) |
 | 后端 | ![Node.js](https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
-| 数据库 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| 数据库 | ![Mysql](https://img.shields.io/badge/-MySql-47A248?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
 | 运维 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) |
 
 ---
