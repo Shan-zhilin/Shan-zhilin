@@ -1,16 +1,54 @@
-### Hi there 👋
+<!-- 最顶端动态打字机效果 -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=25&lines=Hi+there👋+I'm+ZHILIN-SHAN;Welcome+to+my+GitHub!;Always+learning,+always+building.)
 
-<!--
-**Shan-zhilin/Shan-zhilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 头像 + 徽章 一行搞定 -->
+<p align="center">
+  <img src="https://github.com/Shan-zhilin.png" width="120" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- 关键徽章：技术栈、访问量、联系方式 -->
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Shan-zhilin&style=flat-square&color=00F5FF" alt="profile views"/>
+  <a href="mailto:940259702@qq.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 当前聚焦
+<!-- 用 GitHub 自带任务列表，实时勾选 -->
+- [x] 刷算法题，冲击 1000+ AC
+- [ ] 学习 -> 引用 -> 精通
+
+---
+
+### 🛠️ 技术栈快照
+| 分类 | 技术 |
+|---|---|
+| 语言 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| 前端 | ![Vue3](https://img.shields.io/badge/-Vue3-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| 后端 | ![Node.js](https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
+| 数据库 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| 运维 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) |
+
+---
+
+### 📊 GitHub 数据卡片
+<!-- GitHub Stats 卡片，黑暗模式自适应 -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shan-zhilin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0ECBDB00&title_color=00F5FF&text_color=C3D1D9&icon_color=00F5FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shan-zhilin&hide_title=true&hide_border=true&bg_color=0ECBDB00&title_color=00F5FF&text_color=C3D1D9&icon_color=00F5FF&layout=compact" />
+</p>
+
+<!-- 提交热力图 -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shan-zhilin&theme=dark&hide_border=true" /></p>
+
+### 📝 最后
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<p align="center">
+  <i>“It's better to act than to think”</i>
+</p>
