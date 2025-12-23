@@ -44,9 +44,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shan-zhilin&hide_title=true&hide_border=true&bg_color=0ECBDB00&title_color=00F5FF&text_color=C3D1D9&icon_color=00F5FF&layout=compact" />
 </p>
 
-<!-- 提交热力图 -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shan-zhilin&theme=dark&hide_border=true" /></p>
-
 ### 📝 最后
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
